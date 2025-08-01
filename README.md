@@ -6,7 +6,7 @@ A classic Tic Tac Toe game featuring an unbeatable AI opponent powered by the Mi
 Desktop app built with Tkinter.
 
 
-🖥️ CLI Version (main.py: 
+🖥️ CLI Version (main.py) 
 
 A text-based version playable in the terminal.
 
