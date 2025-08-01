@@ -1,12 +1,12 @@
 A classic Tic Tac Toe game featuring an unbeatable AI opponent powered by the Minimax algorithm. This repository includes two versions:
 
 
-🖥️ GUI Version (main.py) 
+🖥️ GUI Version (gui.py) 
 
 Desktop app built with Tkinter.
 
 
-🖥️ Console Version: 
+🖥️ CLI Version (main.py: 
 
 A text-based version playable in the terminal.
 
